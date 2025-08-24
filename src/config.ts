@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/kaitlync31",
   },
   aboutMe:
-    "Sophomore at Northwestern University with experience in design, full-stack, and AI/ML. Skilled in user research, data-driven product design, and AI model development. Passionate about leveraging AI to build user-centered products.",
+    "Sophomore at Northwestern University exploring the intersections of artificial intelligence, human-computer interaction, and ethics in tech. Experienced in AI/ML, full-stack development, and design, with a passion for building user-centered AI products that bridge research and real-world impact.",
   skills: ["Python", "C/C++", "SQL", "JavaScript", "React", "Node.js", "Figma", "Adobe Creative Suite"],
   projects: [
     {
@@ -17,14 +17,14 @@ export const siteConfig = {
       description:
         "AI-powered tool that generates personalized quizzes for Japanese reading comprehension practice, designed to support self-directed language learning.",
       link: "https://github.com/kaitlync31/japanese-quiz-app",
-      skills: ["Full-Stack Development", "Applied AI", "UI/UX Design"],
+      skills: ["Full-Stack Development", "OpenAI API", "UI/UX Design"],
     },
     {
       name: "ASL Sign Translator",
       description:
         "Computer Vision model that recognizes American Sign Language (ASL) signs from video input, enabling real-time translation to text.",
       link: "https://github.com/kaitlync31/RAISO-project",
-      skills: ["AI Development", "Computer Vision", "Machine Learning", "AI Ethics"],
+      skills: ["Machine Learning", "Computer Vision", "AI Ethics"],
 
     },
     {
@@ -32,12 +32,12 @@ export const siteConfig = {
       description:
         "AI-powered chabot that answers students' questions using the Socratic method, encouraging critical thinking in an era of easy online answers.",
       link: "",
-      skills: ["Research", "AI Development", "Teamwork"],
+      skills: ["Cognition Research", "RAG", "NLP", "Teamwork"],
     },
     {
       name: "Stabil-Ease",
       description:
-        "Two portable grab bars designed to help a client with Parkinson's disease maintain stability, created with a team of four in Northwestern's Design Thinking & Communication Course.",
+        "Two portable grab bars designed to help a client with Parkinson's disease maintain stability in everyday environments.",
       link: "https://goofy-pen-616.notion.site/Stabil-Ease-258935e69d9a80f8a638e6c478462402?source=copy_link",
       skills: ["User Research", "Technical Report Writing", "Product Design"],
     },
@@ -66,26 +66,26 @@ export const siteConfig = {
       title: "Product Consultant Intern",
       dateRange: "June 2025 - Aug 2025",
       bullets: [
-        "Conducted 50+ user interviews to unconver UX friction points & key engagement motivators",
-        "Synthesized user feedback into actionable insights presented to the cross-functional teams",
+        "Conducted 50+ user interviews to unconver UX friction points & key engagement motivators, presenting weekly findings to cross-functional teams",
+        "Created Figma wireframes to improve user experience, leading to implementation of new copy messaging, onboarding tooltips, group play, and more",
         "Planned go-to-market strategies targeting college students, preparing for a successful product launch in Fall 2025",
       ],
     },
     {
-      company: "Northwestern Center for Advancing Safety of Machine Intelligence (CASMI)",
+      company: "C3 Lab @ Northwestern University",
       title: "AI Safety Research Assistant",
       dateRange: "April 2025 - Present",
       bullets: [
-        "Assisting in research on persuasiveness of LLM-generated political statements across various demographic groups",
-        "Conducting ETL processes on multi-phase survey datasets to perform statistical and qualitative analysis",
-        "Collaborating with team of researchers to publish findings in peer-reviewed journals",
+        "Assist in research analyzing persuasiveness of LLM-generated political statements across various demographic groups",
+        "Conduct ETL processes on multi-phase survey datasets to perform statistical and qualitative analysis",
+        "Collaborate with team of researchers to compile findings into comprehensive reports for publication",
       ],
     },
   ],
   education: [
     {
       school: "Northwestern University",
-      degree: "B.A in Computer Science & Cognitive Science",
+      degree: "B.A. in Computer Science & Cognitive Science",
       dateRange: "2024 - 2028",
       achievements: [
         "Dean's List: 3/3 quarters",
