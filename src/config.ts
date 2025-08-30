@@ -66,7 +66,7 @@ export const siteConfig = {
       title: "Product Consultant Intern",
       dateRange: "June 2025 - Aug 2025",
       bullets: [
-        "Conducted 50+ user interviews to unconver UX friction points & key engagement motivators, presenting weekly findings to cross-functional teams",
+        "Conducted 20+ user interviews to unconver UX friction points & key engagement motivators, presenting weekly findings to cross-functional teams",
         "Created Figma wireframes to improve user experience, leading to implementation of new copy messaging, onboarding tooltips, group play, and more",
         "Planned go-to-market strategies targeting college students, preparing for a successful product launch in Fall 2025",
       ],
@@ -74,7 +74,7 @@ export const siteConfig = {
     {
       company: "C3 Lab @ Northwestern University",
       title: "AI Safety Research Assistant",
-      dateRange: "April 2025 - Present",
+      dateRange: "April 2025 - Aug 2025",
       bullets: [
         "Assist in research analyzing persuasiveness of LLM-generated political statements across various demographic groups",
         "Conduct ETL processes on multi-phase survey datasets to perform statistical and qualitative analysis",
