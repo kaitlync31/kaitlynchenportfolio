@@ -57,7 +57,7 @@ export const siteConfig = {
       dateRange: "Aug 2025 - Present",
       bullets: [
         "Assist in the development and maintenance of web and mobile applications to support Hospital-at-Home operations, including patient management & staff routing optimization",
-        "Contribute to the design and implementation of new features using React and Node.js",
+        "Contribute to the design, implementation, and testing of new features using React and Node.js",
         "Collaborate with cross-functional teams to ensure high-quality and timely software delivery",
       ],
     },
@@ -76,7 +76,7 @@ export const siteConfig = {
       title: "AI Safety Research Assistant",
       dateRange: "April 2025 - Aug 2025",
       bullets: [
-        "Assist in research analyzing persuasiveness of LLM-generated political statements across various demographic groups",
+        "Assist in research analyzing persuasiveness of LLM-generated political statements across various demographic groups using NLP techniques and survey data",
         "Conduct ETL processes on multi-phase survey datasets to perform statistical and qualitative analysis",
         "Collaborate with team of researchers to compile findings into comprehensive reports for publication",
       ],
