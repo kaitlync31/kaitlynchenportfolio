@@ -56,7 +56,7 @@ export const siteConfig = {
       title: "Software Development Intern",
       dateRange: "Aug 2025 - Present",
       bullets: [
-        "Assist in the development and maintenance of web and mobile applications to support Hospital-at-Home programs",
+        "Assist in the development and maintenance of web and mobile applications to support Hospital-at-Home operations, including patient management & staff routing optimization",
         "Contribute to the design and implementation of new features using React and Node.js",
         "Collaborate with cross-functional teams to ensure high-quality and timely software delivery",
       ],
@@ -89,7 +89,7 @@ export const siteConfig = {
       dateRange: "2024 - 2028",
       achievements: [
         "Dean's List: 3/3 quarters",
-        "Courses Include: Data Structures & Algorithms, Artificial Intelligence, Design Thinking & Communication, Cognitive Psychology",
+        "Courses Include: Fundamentals of Computer Programming I & II, Data Structures & Algorithms, Computer Systems, Artificial Intelligence, Design Thinking & Communication, Cognitive Psychology",
       ],
     },
     {
