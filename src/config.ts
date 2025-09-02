@@ -84,11 +84,21 @@ export const siteConfig = {
     {
       company: "Northwestern AI Safety Fellowship",
       title: "Fellow",
-      dateRange: "April 2025 - Aug 2025",
+      dateRange: "April 2025 - June 2025",
       bullets: [
         "Selected as one of 10 students for second cohort of NU AI Safety Fellowship, focusing on technical and policy aspects of AI safety",
         "Engage in weekly seminars and workshops on topics such as interpretability, robustness, scalable oversight, and alignment",
         "Deepen understanding of core technical concepts & strengthen ability to critically analyze and articulate perspectives on current and future state of AI in society",
+      ],
+    },
+    {
+      company: "Northwestern Women in Computing",
+      title: "Junior Board Member",
+      dateRange: "Mar 2025 - Aug 2025",
+      bullets: [
+        "Plan and execute events to empower women in tech, including workshops, speaker series, and networking events",
+        "Collaborate with other junior & senior board members to develop strategies for increasing membership and engagement on campus",
+        "Assist in managing social media accounts and creating promotional materials to promote WIC activities and initiatives",
       ],
     }
   ],
