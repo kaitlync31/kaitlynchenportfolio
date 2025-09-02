@@ -32,7 +32,7 @@ export const siteConfig = {
       description:
         "AI-powered chabot that answers students' questions using the Socratic method, encouraging critical thinking in an era of easy online answers.",
       link: "",
-      skills: ["Cognition Research", "RAG", "NLP", "Teamwork"],
+      skills: ["Cognition Research", "RAG", "NLP"],
     },
     {
       name: "Stabil-Ease",
