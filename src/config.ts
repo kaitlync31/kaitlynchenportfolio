@@ -77,7 +77,7 @@ export const siteConfig = {
       dateRange: "April 2025 - Aug 2025",
       bullets: [
         "Assist in research analyzing persuasiveness of LLM-generated political statements across various demographic groups using NLP techniques and survey data",
-        "Conduct ETL processes on multi-phase survey datasets to perform statistical and qualitative analysis",
+        "Conduct ETL processes on multi-phase survey datasets to perform statistical and qualitative analysis, including training ML models for persuasiveness prediction",
         "Collaborate with team of researchers to compile findings into comprehensive reports for publication",
       ],
     },
