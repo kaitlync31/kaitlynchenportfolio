@@ -72,7 +72,7 @@ export const siteConfig = {
       ],
     },
     {
-      company: "C3 Lab @ Northwestern University",
+      company: "Northwestern C3 Lab",
       title: "AI Safety Research Assistant",
       dateRange: "April 2025 - Present",
       bullets: [
