@@ -52,6 +52,16 @@ export const siteConfig = {
   ],
   experience: [
     {
+      company: "Northwestern CS Department",
+      title: "Undergraduate Teaching Assistant",
+      dateRange: "Aug 2025 - Present",
+      bullets: [
+        "Supported instruction in CS 211: Fundamentals of Computer Programming in C/C++, guiding students through pointers, memory management, and debugging practices",
+        "Held weekly office hours, graded assignments, and provided individualized feedback to 90+ students, helping them strengthen problem-solving skills and coding proficiency",
+        "Collaborated with lead instructor and fellow TAs to develop supplementary materials and improve overall course delivery",
+      ],
+    },
+    {
       company: "CareOn, Inc.",
       title: "Software Development Intern",
       dateRange: "Aug 2025 - Present",
@@ -73,7 +83,7 @@ export const siteConfig = {
     },
     {
       company: "Coverd",
-      title: "Product Consultant Intern",
+      title: "Product Consultant",
       dateRange: "June 2025 - Aug 2025",
       bullets: [
         "Conducted 20+ user interviews to unconver UX friction points & key engagement motivators, presenting weekly findings to cross-functional teams",
@@ -89,6 +99,15 @@ export const siteConfig = {
         "Selected as one of 10 students for Spring cohort of NU AI Safety Fellowship, focusing on technical and policy aspects of AI safety",
         "Engage in weekly seminars and workshops on topics such as interpretability, robustness, scalable oversight, and alignment",
         "Deepen understanding of core technical concepts & strengthen ability to critically analyze and articulate perspectives on current and future state of AI in society",
+      ],
+    },
+    {
+      company: "Capitol AI",
+      title: "Technical Consultant",
+      dateRange: "April 2025 - June 2025",
+      bullets: [
+        "Collaborated with 4 peers to build LegalEase, a prototype legal advice tool for lawyers, integrating Capitol AI’s API and RAG pipeline into a functional app",
+        "Provided feedback on Figma wireframes and developer platform documentation in weekly meetings with engineers and designers, improving usability for future developer users",
       ],
     },
     {
