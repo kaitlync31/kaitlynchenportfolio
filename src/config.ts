@@ -56,7 +56,7 @@ export const siteConfig = {
       title: "Undergraduate Teaching Assistant",
       dateRange: "Aug 2025 - Present",
       bullets: [
-        "Supported instruction in CS 211: Fundamentals of Computer Programming in C/C++, guiding students through pointers, memory management, and debugging practices",
+        "Supported instruction in CS 211: Fundamentals of Computer Programming in C/C++, guiding students through pointers, memory management, debugging practices, and Git-based workflows",
         "Held weekly office hours, graded assignments, and provided individualized feedback to 90+ students, helping them strengthen problem-solving skills and coding proficiency",
         "Collaborated with lead instructor and fellow TAs to develop supplementary materials and improve overall course delivery",
       ],
