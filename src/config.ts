@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Kaitlyn Chen",
-  title: "CS & Cognitive Science Student @ Northwestern University",
+  title: "CS & CogSci Student @ Northwestern University",
   description: "Portfolio website of Kaitlyn Chen",
   accentColor: "#1d4ed8",
   social: {
