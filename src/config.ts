@@ -66,9 +66,9 @@ export const siteConfig = {
       title: "Software Development Intern",
       dateRange: "Aug 2025 - Present",
       bullets: [
-        "Assist in the development and maintenance of web and mobile applications to support Hospital-at-Home operations, including patient management & staff routing optimization",
+        "Assist in the development and maintenance of web and mobile applications to support Hospital-at-Home operations, including patient management, device management, and staff routing optimization",
         "Contribute to the design, implementation, and testing of new features using React and Node.js",
-        "Collaborate with cross-functional teams to ensure high-quality and timely software delivery",
+        "Collaborate with cross-functional team of clinicians, designers, and engineers to ensure high-quality and timely software delivery",
       ],
     },
     {
