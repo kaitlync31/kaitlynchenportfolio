@@ -57,7 +57,7 @@ export const siteConfig = {
       dateRange: "Sep 2025 - Present",
       bullets: [
         "Support instruction in CS 211: Fundamentals of Computer Programming in C/C++, guiding students through pointers, memory management, debugging practices, and Git-based workflows",
-        "Hold weekly office hours, graded assignments, and provided individualized feedback to 90+ students, helping them strengthen problem-solving skills and coding proficiency",
+        "Hold weekly office hours, grade assignments, and provide individualized feedback to 90+ students, helping strengthen problem-solving skills and coding proficiency",
         "Collaborate with lead instructor and fellow TAs to develop supplementary materials and improve overall course delivery",
       ],
     },
