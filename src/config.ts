@@ -20,19 +20,19 @@ export const siteConfig = {
       skills: ["Full-Stack Development", "OpenAI API", "UI/UX Design"],
     },
     {
+        name: "Kentucky Nonprofit Network Data Dashboard", 
+        description:
+          "Interactive data visualization tool designed to support nonprofit leaders and policymakers in making informed funding and policy decisions.",
+        link: "",
+        skills: ["Data Visualization", "Full-Stack Development", "Client Communication"],
+      },
+    {
       name: "ASL Sign Translator",
       description:
         "Computer Vision model that recognizes American Sign Language (ASL) signs from video input, enabling real-time translation to text.",
       link: "https://github.com/kaitlync31/RAISO-project",
       skills: ["Machine Learning", "Computer Vision", "AI Ethics"],
 
-    },
-    {
-      name: "Kentucky Nonprofit Network Data Dashboard", 
-      description:
-        "Interactive data visualization tool designed to support nonprofit leaders and policymakers in making informed funding and policy decisions.",
-      link: "",
-      skills: ["Data Visualization", "Full-Stack Development", "Client Communication"],
     },
     {
       name: "Stabil-Ease",
@@ -56,8 +56,8 @@ export const siteConfig = {
       title: "Undergraduate Teaching Assistant",
       dateRange: "Sep 2025 - Present",
       bullets: [
-        "Support instruction in CS 211: Fundamentals of Computer Programming in C/C++, guiding students through pointers, memory management, debugging practices, and Git-based workflows",
-        "Hold weekly office hours, grade assignments, and provide individualized feedback to 90+ students, helping strengthen problem-solving skills and coding proficiency",
+        "Support instruction for CS 211: Fundamentals of Computer Programming in C/C++, guiding students through pointers, memory management, debugging practices, and Git-based workflows",
+        "Hold weekly office hours, grade assignments, and provide individualized feedback to support 90+ students, helping strengthen problem-solving skills and coding proficiency",
         "Collaborate with lead instructor and fellow TAs to develop supplementary materials and improve overall course delivery",
       ],
     },
@@ -66,19 +66,19 @@ export const siteConfig = {
       title: "Software Development Intern",
       dateRange: "Aug 2025 - Present",
       bullets: [
-        "Assist in the development and maintenance of web and mobile applications to support Hospital-at-Home operations, including patient management, device management, and staff routing optimization",
-        "Contribute to the design, implementation, and testing of new features using React and Node.js",
-        "Collaborate with cross-functional team of clinicians, designers, and engineers to ensure high-quality and timely software delivery",
+        "Contribute to development and maintenance of a production web application to support Hospital-at-Home operations, including patient management, device management, and staff routing optimization",
+        "Design, implement, document, and test new features in React and Node.js, improving system functionality and reliability",
+        "Collaborate with clinicians, designers, and engineers in Agile sprints to ensure high-quality and timely software delivery",
       ],
     },
     {
       company: "Northwestern C3 Lab",
       title: "AI Safety Research Assistant",
-      dateRange: "April 2025 - Present",
+      dateRange: "April 2025 - Sep 2025",
       bullets: [
-        "Assist in research analyzing persuasiveness of LLM-generated political statements across various demographic groups using NLP techniques and survey data",
-        "Conduct ETL processes on multi-phase survey datasets to perform statistical and qualitative analysis, including training ML models for persuasiveness prediction",
-        "Collaborate with team of researchers to compile findings into comprehensive reports for publication",
+        "Assisted in research analyzing persuasiveness of LLM-generated political statements across demographic groups using NLP techniques and 60-participant survey data",
+        "Conducted ETL processes on multi-phase survey datasets to perform statistical and qualitative analysis, including training ML models for persuasiveness prediction",
+        "Collaborated with team of researchers to compile findings into comprehensive reports for publication",
       ],
     },
     {
@@ -115,9 +115,9 @@ export const siteConfig = {
       title: "Junior Board Member",
       dateRange: "Mar 2025 - Aug 2025",
       bullets: [
-        "Plan and execute events to empower women in tech, including workshops, speaker series, and networking events",
+        "Plan and execute events to empower women in tech at Northwestern, including professional workshops, speaker series, and networking events",
         "Collaborate with other junior & senior board members to develop strategies for increasing membership and engagement on campus",
-        "Assist in managing social media accounts and creating promotional materials to promote WIC activities and initiatives",
+        "Assist in managing social media accounts and creating promotional materials for WIC activities and initiatives",
       ],
     }
   ],
@@ -127,8 +127,8 @@ export const siteConfig = {
       degree: "B.A. in Computer Science & Cognitive Science",
       dateRange: "2024 - 2028",
       achievements: [
-        "Dean's List: 3/3 quarters",
-        "Courses Include: Fundamentals of Computer Programming I & II, Data Structures & Algorithms, Computer Systems, Artificial Intelligence, Design Thinking & Communication, Cognitive Psychology",
+        "Dean's List: 4/4 quarters",
+        "Courses Include: Fundamentals of Computer Programming I & II, Data Structures & Algorithms, Computer Systems, Artificial Intelligence, Scalable Software Architectures, Data Visualization, Design Thinking & Communication, Cognitive Psychology",
       ],
     },
     {
