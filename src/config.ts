@@ -66,8 +66,8 @@ export const siteConfig = {
       title: "Software Development Intern",
       dateRange: "Aug 2025 - Present",
       bullets: [
-        "Contribute to development and maintenance of a production web application to support Hospital-at-Home operations, including patient management, device management, and staff routing optimization",
-        "Design, implement, document, and test new features in React and Node.js, improving system functionality and reliability",
+        "Contribute to development and maintenance of a production web application to support Hospital-at-Home operations, reducing nurse workloads by 2.7 hours/day and saving thousands in device management costs",
+        "Implement, document, and test new features (patient profile, device management, staff routing) in React and Node.js, improving system functionality and reliability",
         "Collaborate with clinicians, designers, and engineers in Agile sprints to ensure high-quality and timely software delivery",
       ],
     },
@@ -87,7 +87,7 @@ export const siteConfig = {
       dateRange: "June 2025 - Aug 2025",
       bullets: [
         "Conducted 20+ user interviews to unconver UX friction points & key engagement motivators, presenting weekly findings to cross-functional teams",
-        "Created Figma wireframes to improve user experience, leading to implementation of new copy messaging, onboarding tooltips, group play, and more",
+        "Created Figma wireframes to improve user experience, leading to implementation of new copy messaging, onboarding tooltips, group play, and referral incentives",
         "Planned go-to-market strategies targeting college students, preparing for a successful product launch in Fall 2025",
       ],
     },
