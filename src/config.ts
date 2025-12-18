@@ -85,7 +85,7 @@ export const siteConfig = {
       title: "Product Consultant",
       dateRange: "June 2025 - Aug 2025",
       bullets: [
-        "Conducted 20+ user interviews to unconver UX friction points & key engagement motivators, presenting weekly findings to cross-functional teams",
+        "Conducted 20+ in-depth user interviews to unconver UX friction points & key engagement motivators, presenting weekly findings to cross-functional teams",
         "Created Figma wireframes to improve user experience, leading to implementation of new copy messaging, onboarding tooltips, group play, and referral incentives",
         "Planned go-to-market strategies targeting college students, preparing for a successful product launch in Fall 2025",
       ],
@@ -95,7 +95,7 @@ export const siteConfig = {
       title: "Undergraduate Fellow",
       dateRange: "April 2025 - June 2025",
       bullets: [
-        "Selected as one of 10 students for Spring cohort of NU AI Safety Fellowship, focusing on technical and policy aspects of AI safety",
+        "Selected as one of 10 students for Spring cohort of NU AI Safety Fellowship",
         "Engage in weekly seminars and workshops on topics such as interpretability, robustness, scalable oversight, and alignment",
         "Deepen understanding of core technical concepts & strengthen ability to critically analyze and articulate perspectives on current and future state of AI in society",
       ],
