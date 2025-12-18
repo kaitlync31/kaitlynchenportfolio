@@ -28,11 +28,11 @@ export const siteConfig = {
 
     },
     {
-      name: "Socratic Spark",
+      name: "Kentucky Nonprofit Network Data Dashboard", 
       description:
-        "AI-powered chabot that answers students' questions using the Socratic method, encouraging critical thinking in an era of easy online answers.",
+        "Interactive data visualization tool designed to support nonprofit leaders and policymakers in making informed funding and policy decisions.",
       link: "",
-      skills: ["Cognition Research", "RAG", "NLP"],
+      skills: ["Data Visualization", "Full-Stack Development", "Client Communication"],
     },
     {
       name: "Stabil-Ease",
