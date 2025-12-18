@@ -58,7 +58,6 @@ export const siteConfig = {
       bullets: [
         "Support instruction for CS 211: Fundamentals of Computer Programming in C/C++, guiding students through pointers, memory management, debugging practices, and Git-based workflows",
         "Hold weekly office hours, grade assignments, and provide individualized feedback to support 90+ students, helping strengthen problem-solving skills and coding proficiency",
-        "Collaborate with lead instructor and fellow TAs to develop supplementary materials and improve overall course delivery",
       ],
     },
     {
@@ -66,7 +65,7 @@ export const siteConfig = {
       title: "Software Development Intern",
       dateRange: "Aug 2025 - Present",
       bullets: [
-        "Contribute to development and maintenance of a production web application to support Hospital-at-Home operations, reducing nurse workloads by 2.7 hours/day and saving thousands in device management costs",
+        "Contribute to development and maintenance of a production web application to support Hospital-at-Home operations, reducing nurse workloads by 2+ hours/day and saving thousands in device management costs",
         "Implement, document, and test new features (patient profile, device management, staff routing) in React and Node.js, improving system functionality and reliability",
         "Collaborate with clinicians, designers, and engineers in Agile sprints to ensure high-quality and timely software delivery",
       ],
