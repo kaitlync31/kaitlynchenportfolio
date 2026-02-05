@@ -23,7 +23,7 @@ export const siteConfig = {
         name: "Kentucky Nonprofit Network Data Dashboard", 
         description:
           "Interactive data visualization tool designed to support nonprofit leaders and policymakers in making informed funding and policy decisions.",
-        link: "",
+        link: "https://github.com/kaitlync31/dfg-dashboard",
         skills: ["Data Visualization", "Full-Stack Development", "Client Communication"],
       },
     {
